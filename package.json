@@ -1,0 +1,1 @@
+{"name":"once-upon-a-valley","private":true,"workspaces":["apps/*","packages/*"],"scripts":{"mobile":"npm run start -w @valley/mobile","admin":"npm run dev -w @valley/admin","admin:build":"npm run build -w @valley/admin","check":"npm run typecheck --workspaces --if-present"}}
